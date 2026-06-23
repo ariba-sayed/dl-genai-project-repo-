@@ -15,8 +15,20 @@ This project aims to develop an AI/ML-based system capable of solving complex mu
 ```
 smart-mcq-solver/
 │
-├── README.md
-
+├── notebooks/
+│   ├── milestone-1.ipynb
+│
+├── src/
+│   ├── train.py
+│   ├── inference.py
+│   └── utils.py
+│
+├── reports/
+│
+├── models/
+│
+├── requirements.txt
+└── README.md
 ```
 
 ## Competition Goal
