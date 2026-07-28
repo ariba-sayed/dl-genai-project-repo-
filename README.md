@@ -17,11 +17,15 @@ smart-mcq-solver/
 │
 ├── notebooks/
 │   ├── milestone-1.ipynb
-│
+    ├── milestone-2.ipynb     
+    ├── milestone-3.ipynb
+    ├── milestone-4.ipynb
+    └── milestone-5.ipynb
 ├── src/
-│   ├── train.py
-│   ├── inference.py
-│   └── utils.py
+    ├── utils.py       # data loading, cleaning, vocab, metrics
+    ├── models.py      # model architectures + dataset/collate classes
+    ├── train.py       # trains all 3 models, logs to W&B, saves checkpoints
+    └── inference.py   # loads checkpoints, generates all 3 submissions
 │
 ├── reports/
 │
