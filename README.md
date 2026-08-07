@@ -20,7 +20,7 @@ smart-mcq-solver/
     ├── milestone-2.ipynb     
     ├── milestone-3.ipynb
     ├── milestone-4.ipynb
-    └── milestone-5.ipynb
+    
 ├── src/
     ├── utils.py       # data loading, cleaning, vocab, metrics
     ├── models.py      # model architectures + dataset/collate classes
