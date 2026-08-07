@@ -28,8 +28,7 @@ smart-mcq-solver/
     └── inference.py   # loads checkpoints, generates all 3 submissions
 │
 ├── reports/
-│
-├── models/
+    ├── Smart_MCQ_Solver_Report.pdf   
 │
 ├── requirements.txt
 └── README.md
